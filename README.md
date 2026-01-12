@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PetalSuite Mobile
 
 PetalSuite Mobile is a comprehensive inventory and sales management solution designed specifically for florists. Built with React Native and Expo, this application provides a seamless mobile experience for tracking flower stocks, managing supplier relationships, and processing sales efficiently.
